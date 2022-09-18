@@ -6,10 +6,12 @@
 
 # Sample Images
 
-### Image of Endpoint to add a New Question Answered by a Moderator:
+### 1. Image of Endpoint to add a New Question Answered by a Moderator:
 
-<img src = "https://github.com/Bilal2001/Tech-A-Thon/blob/main/NewQuestion.jpeg">
+<img src = "https://github.com/Bilal2001/Tech-A-Thon/blob/main/NewQuestion.jpeg" style = "height:400px; width:700px;">
 
-### Image of Endpoint to fetch the answer to a Previously Answered Question by a Moderator:
 
-<img src = "https://github.com/Bilal2001/Tech-A-Thon/blob/main/Previously Asked Question.jpeg">
+
+### 2. Image of Endpoint to fetch the answer to a Previously Answered Question by a Moderator:
+
+<img src = "https://github.com/Bilal2001/Tech-A-Thon/blob/main/Previously Asked Question.jpeg" style = "height:400px; width:700px;">
