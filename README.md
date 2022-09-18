@@ -8,10 +8,21 @@
 
 ### 1. Image of Endpoint to add a New Question Answered by a Moderator:
 
+##### ---End Point: /add
+##### ---Parameters:  ( Query, Answer, Title )
+##### ---Processing: Tags Extraction using BERT Algoritm, followed by storing into MongoDB.
+
+
 <img src = "https://github.com/Bilal2001/Tech-A-Thon/blob/main/NewQuestion.jpeg" style = "height:400px; width:700px;">
 
 
 
 ### 2. Image of Endpoint to fetch the answer to a Previously Answered Question by a Moderator:
+
+
+##### ---End Point: /queryCheck
+##### ---Parameters:  ( Query )
+##### ---Processing: Tags Extraction using BERT Algoritm for given sentence, followed by extracting maximum similar answer.
+
 
 <img src = "https://github.com/Bilal2001/Tech-A-Thon/blob/main/Previously Asked Question.jpeg" style = "height:400px; width:700px;">
